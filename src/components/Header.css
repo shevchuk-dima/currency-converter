@@ -1,0 +1,8 @@
+.App-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10%;
+    background-color: rgba(90, 90, 90, 0.4);
+    padding: 0 10px;
+}

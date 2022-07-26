@@ -1,0 +1,20 @@
+.converter-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 150px;
+}
+.converter-fileld input{
+    background-color: #bda9dd;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+.converter-fileld select{
+    background-color: #bda9dd;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
